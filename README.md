@@ -9,7 +9,7 @@
 - Hotel revenue data from 2018 to 2020 from [Absent Data](https://www.absentdata.com/hotel_revenue_historical_full).
 
 ### Tools
-- Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market/blob/main/SQLQuery3.sql)
+- MySQL Server 2018 for data analysis - View [SQL scripts](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market/blob/main/SQLQuery3.sql)
 - Power BI for data visualisation - View [dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1)
 
 ### Dashboard
