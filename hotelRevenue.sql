@@ -19,3 +19,12 @@ select * from tbl2019
 union
 select * from tbl2020) hotels
 group by arrival_date_year,hotel;
+
+#HOTEL PARKING LOT SIZE ANALYSIS IN PERCENTAGES
+select arrival_date_year, sum(required_car_parking_spaces) from
+(select * from tbl2018
+union
+select * from tbl2019
+union
+select * from tbl2020) hotels
+group by arrival_date_year;
