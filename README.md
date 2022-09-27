@@ -1,4 +1,4 @@
-# Hotel Booking
+# Hotel Revenue
 
 ### Business Task
 - Analyse hotel revenue by year.
