@@ -19,5 +19,3 @@ select * from tbl2019
 union
 select * from tbl2020) hotels
 group by arrival_date_year,hotel;
-
-#HOTEL PARKING LOT SIZE ANALYSIS
