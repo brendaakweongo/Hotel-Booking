@@ -14,4 +14,4 @@
 
 ### Dashboard
 
-<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://user-images.githubusercontent.com/81607668/168976440-2a4ceb9f-2459-4b44-91eb-c31e6c526393.png"></kbd>
+<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://github.com/brendaakweongo/Hotel-Revenue/blob/main/hotelAnalysis.png"></kbd>
