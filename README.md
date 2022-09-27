@@ -1,7 +1,7 @@
 # Hotel Revenue
 
 ### Business Task
-- Analyse hotel revenue by year.
+- Analyse hotel revenue.
 - Analyse increasing parking lot size.
 - Analyse trends in the data.
 
