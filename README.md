@@ -1,20 +1,16 @@
 # Hotel Booking
 
 ### Business Task
--Analyse hotel revenue by year
--Analyse increasing parking lot size
--Analyse trends in the data
+- Analyse hotel revenue by year.
+- Analyse increasing parking lot size.
+- Analyse trends in the data.
 
 ### Data Set
-- Covid-19 data from 1 Jan 2020 to 5 Jul 2021 from [Our World in Data](https://ourworldindata.org/covid-deaths).
-- Bursa Malaysia KLSE Index Prices from 1 Jan 2020 to 2 Jul 2021 from [Yahoo! Finance](https://finance.yahoo.com/quote/%5EKLSE?p=%5EKLSE).
+- Hotel revenue data from 2018 to 2020 from [Absent Data](https://www.absentdata.com/hotel_revenue_historical_full).
 
 ### Tools
 - Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market/blob/main/SQLQuery3.sql)
-- Tableau for data visualisation - View [dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1)
-
-### Posted in
-- [Medium](https://katiehuangx.medium.com/covid-19-analysing-covid-19-and-the-impact-on-bursa-malaysia-klse-index-31e390fb04cd)
+- Power BI for data visualisation - View [dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1)
 
 ### Dashboard
 
