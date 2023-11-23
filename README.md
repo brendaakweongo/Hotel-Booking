@@ -1,4 +1,4 @@
-# Hotel Revenue
+# Hotel Revenue 🏬💰
 
 ### Business Task
 - Analyse hotel revenue.
